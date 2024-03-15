@@ -1,1 +1,63 @@
 # erudmila.github.io
+this file is to remind myself of what is in the repository and how does it work and what needs to be done:
+list of all my replits projects/assignments
+-- 6.1 P5 generate colors dots 
+-- 6.3 CMU graphics 
+-- infy app challenege 
+-- My python portfolio
+-- project 1: silly snetences
+-- project 2: room area
+-- project- bouncing ball
+-- project 3 chatbot
+-- 1.0 output predict run investigate
+-- 1.1 output modify
+-- 1.2 output make
+-- 1.3 variables predict and run
+-- 1.4 variables investigate
+-- 1.5 variables modify
+-- 1.6 variables make
+-- 1.7 input predict and run
+-- 1.8 input investigate
+-- 1.9 input modify
+-- 1.10 input make
+-- unit 2 overview
+-- 2.0 calculation predict
+-- 2.1 calculation investigate
+-- 2.2 calculation modify
+-- 2.3 calculation make
+-- 3.0 functions predict and run
+-- 3.1 functions investigate
+-- 3.2 functions modify
+-- 3.3 functions make
+-- 3.4 conditionals unit overview
+-- 3.5 conditionals predict and run
+-- 3.6 conditionals investigate
+-- 3.7 conditionals modify
+-- 3.8 conditionals make
+-- 3.10 conditionals predict and run
+-- 3.11 conditionals investigate
+-- 3.12 conditionals modify
+-- 3.13 conditionals make
+-- 4.1 iteration predict and run
+-- 4.2 iteration investigate
+-- 4.3 iteration modify
+-- 4.4 iteration make
+-- HTML-CSS_REVIEW_FILES
+-- Project teacher appreactions week
+-- final project ghost school
+-- code.org unit 1 review digital information
+-- code.org unit 2 review the internet 
+-- congressional app challenege
+-- code.org unit 3 review intro to app design 
+-- unit 4 review variables/conditionals
+-- unit 5 review list loops and tra...
+-- unit 6 review algorthms
+-- lab 1 intro to html
+-- lab 2 images
+-- lab 3 hyperlinks
+-- lab 4 tables and colors
+-- 
+--
+--
+
+
