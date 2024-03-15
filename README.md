@@ -56,8 +56,10 @@ list of all my replits projects/assignments
 -- lab 2 images
 -- lab 3 hyperlinks
 -- lab 4 tables and colors
--- 
---
---
+-- lab 5 lists inside tables
+-- lab 6 favicon and styling your page
+-- lab 7 homepage
+-- learners: make a recipe
+-- learners: bronze - debug
 
 
